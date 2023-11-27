@@ -1,0 +1,11 @@
+import numpy as np
+uninitialized_array=np.empty(shape=(2,2))
+print("Name : ANUMOL THOMAS\nREG no : SJC22MCA-2011\nCourse Code: 20MCA241\nCourse : Data Science Lab\nDate : 10-10-2023")
+print("Uninitialized Array :")
+print(uninitialized_array)
+ones_array=np.ones(shape=(2,3))
+print("Array with all elements as 1:")
+print(ones_array)
+zeros_array=np.zeros(shape=(2,3))
+print("Array with all elements as 0:")
+print(zeros_array)
